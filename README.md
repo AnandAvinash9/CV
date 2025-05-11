@@ -1,4 +1,4 @@
-# Avinash Anand – Portfolio Projects
+# Avinash Anand 
 
 Welcome to my GitHub portfolio! I am a Computer Science and Engineering undergraduate specializing in Data Science, with hands-on experience in AI, ML, and data analytics. This repository highlights my technical projects, skills, and internship work.
 
